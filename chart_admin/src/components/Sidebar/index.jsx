@@ -14,7 +14,7 @@ import {
   TrendingUp,
   WorkOutline,
 } from '@material-ui/icons';
-import { Link } from '@material-ui/core';
+import { Link } from 'react-router-dom';
 
 function Sidebar() {
   return (
